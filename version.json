@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.3",
-    "buildNumber":  4,
-    "apkUrl":  "https://github.com/DarkDemon68/rohrer-funeraire-updates/releases/download/v1.0.3/app-release.apk",
-    "releaseUrl":  "https://github.com/DarkDemon68/rohrer-funeraire-updates/releases/tag/v1.0.3",
-    "changelog":  "Mise a jour Rohrer Funeraire 1.0.3."
+  "version": "1.0.4",
+  "buildNumber": 5,
+  "apkUrl": "https://github.com/DarkDemon68/rohrer-funeraire-updates/releases/download/v1.0.4/app-release.apk",
+  "releaseUrl": "https://github.com/DarkDemon68/rohrer-funeraire-updates/releases/tag/v1.0.4",
+  "changelog": "Version 1.0.4 : correction du changement de mot de passe et améliorations."
 }
