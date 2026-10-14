@@ -1,7 +1,7 @@
 {
-  "version": "2.0.0",
-  "buildNumber": 7,
-  "apkUrl": "https://github.com/DarkDemon68/rohrer-funeraire-updates/releases/download/v2.0.0/app-release.apk",
-  "releaseUrl": "https://github.com/DarkDemon68/rohrer-funeraire-updates/releases/tag/v2.0.0",
-  "changelog": "Version 2.0.0 : nouvelle version avec évolutions du catalogue, du planning des services et du tableau de bord."
+  "version": "2.0.1",
+  "buildNumber": 8,
+  "apkUrl": "https://github.com/DarkDemon68/rohrer-funeraire-updates/releases/download/v2.0.1/app-release.apk",
+  "releaseUrl": "https://github.com/DarkDemon68/rohrer-funeraire-updates/releases/tag/v2.0.1",
+  "changelog": "Mise a jour Rohrer Funeraire 2.0.1."
 }
